@@ -1,0 +1,6 @@
+package "vim"
+package "tmux"
+package "git"
+package "zsh"
+package "curl"
+package "nkf"
